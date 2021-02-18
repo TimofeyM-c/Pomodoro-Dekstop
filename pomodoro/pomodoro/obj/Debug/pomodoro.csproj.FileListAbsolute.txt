@@ -1,0 +1,10 @@
+C:\Users\1\source\repos\pomodoro\pomodoro\bin\Debug\pomodoro.exe.config
+C:\Users\1\source\repos\pomodoro\pomodoro\bin\Debug\pomodoro.exe
+C:\Users\1\source\repos\pomodoro\pomodoro\bin\Debug\pomodoro.pdb
+C:\Users\1\source\repos\pomodoro\pomodoro\obj\Debug\pomodoro.csprojAssemblyReference.cache
+C:\Users\1\source\repos\pomodoro\pomodoro\obj\Debug\pomodoro.Form1.resources
+C:\Users\1\source\repos\pomodoro\pomodoro\obj\Debug\pomodoro.Properties.Resources.resources
+C:\Users\1\source\repos\pomodoro\pomodoro\obj\Debug\pomodoro.csproj.GenerateResource.cache
+C:\Users\1\source\repos\pomodoro\pomodoro\obj\Debug\pomodoro.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\pomodoro\pomodoro\obj\Debug\pomodoro.exe
+C:\Users\1\source\repos\pomodoro\pomodoro\obj\Debug\pomodoro.pdb
