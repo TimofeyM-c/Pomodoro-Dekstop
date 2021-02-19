@@ -20,8 +20,8 @@ namespace pomodoro
             SoundPlayer simpleSound = new SoundPlayer(@"c:\Users\1\Desktop\sound.wav");
             simpleSound.Play();
         }
-        int m = 14;
-        int s = 50;
+        int m = 0;
+        int s = 0;
         public Form1()
         {
             InitializeComponent();
